@@ -8,7 +8,10 @@
 
 ## Experience
 
-**Full-stack Developer** @ [FarmaProm](https://www.farmaprom.pl/) _(08.2019 - Present)_ \
+**Software Engineer** @ [Intergiro](https://intergiro.com/) _(09.2021 - Present)_ \
+_Smart business banking._
+
+**Full-stack Developer** @ [FarmaProm](https://www.farmaprom.pl/) _(08.2019 - 09.2021)_ \
 _IT solutions for the pharmaceutical industry._
 
 * Maintenance and development of a monolithic PHP application
