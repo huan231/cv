@@ -4,11 +4,13 @@
 **Phone**: +48 733 556 529 \
 **Date of birth**: 03.07.1999
 
-[LinkedIn](https://www.linkedin.com/in/jan-szybowski-891190169/) / [GitHub](https://github.com/szybowskiJan)
+[GitHub](https://github.com/szybowskiJan)
 
 ## Experience
 
-**Software Engineer** @ [Intergiro](https://intergiro.com/) _(09.2021 - Present)_ \
+**Software Engineer** @ [Tesco Technology](https://www.linkedin.com/showcase/tesco-technology) _(11.2021 - Present)_
+
+**Software Engineer** @ [Intergiro](https://intergiro.com/) _(09.2021 - 11.2021)_ \
 _Smart business banking._
 
 **Full-stack Developer** @ [FarmaProm](https://www.farmaprom.pl/) _(08.2019 - 09.2021)_ \
