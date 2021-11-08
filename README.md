@@ -8,7 +8,7 @@
 
 ## Experience
 
-**Software Engineer** @ [Tesco Technology](https://www.linkedin.com/showcase/tesco-technology) _(11.2021 - Present)_
+**Software Development Engineer** @ [Tesco Technology](https://www.linkedin.com/showcase/tesco-technology) _(11.2021 - Present)_
 
 **Software Engineer** @ [Intergiro](https://intergiro.com/) _(09.2021 - 11.2021)_ \
 _Smart business banking._
