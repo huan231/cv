@@ -4,7 +4,7 @@
 **Phone**: +48 733 556 529 \
 **Date of birth**: 03.07.1999
 
-[GitHub](https://github.com/szybowskiJan)
+[LinkedIn](https://www.linkedin.com/in/jan-szybowski/) / [GitHub](https://github.com/szybowskiJan)
 
 ## Experience
 
