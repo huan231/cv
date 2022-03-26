@@ -35,7 +35,7 @@ _IT solutions for the pharmaceutical industry._
 * TDD
 * React.js, React Redux, Redux Saga
 * Node.js, Next.js, Express, Fastify
-* Docker
+* Docker, Kubernetes
 * TypeScript
 * Cloud Firestore, Cloud Functions, Google App Engine, Google Cloud Pub/Sub, Cloud Storage
 * MySQL, MongoDB
