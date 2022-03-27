@@ -9,7 +9,13 @@
 ## Experience
 
 **Software Development Engineer** @ [Tesco Technology](https://www.linkedin.com/showcase/tesco-technology) _(11.2021 -
-Present)_
+Present)_ \
+_Retail._
+
+* Maintenance and development of CMS (Strapi) application.
+* Built an application for Tesco colleagues to learn new skills and track the progress of their career.
+* **_Technologies used:_** TypeScript, React.js, Node.js, Storybook, single-spa, Splunk, Kubernetes, Helm, PostgreSQL,
+  Strapi, Scrum, Kanban, Express.js, REST, Azure Devops, Vite, React Query, fela
 
 **Software Engineer** @ [Intergiro](https://intergiro.com/) _(09.2021 - 11.2021)_ \
 _Smart business banking._
@@ -34,14 +40,15 @@ _IT solutions for the pharmaceutical industry._
 * JavaScript ES6+
 * TDD
 * React.js, React Redux, Redux Saga
-* Node.js, Next.js, Express, Fastify
+* Node.js, Next.js, Express.js, Fastify
 * Docker, Kubernetes
+* GitHub Actions, Azure Pipelines
 * TypeScript
-* Cloud Firestore, Cloud Functions, Google App Engine, Google Cloud Pub/Sub, Cloud Storage
-* MySQL, MongoDB
+* GCP, Azure
+* MySQL, MongoDB, Redis, Memcached, Cloud Firestore
 * PHP, Symfony
 * OAuth 2.0, OpenID Connect
-* PHPUnit, Jest
+* PHPUnit, Jest, React Testing Library, Cypress
 * Linux (Ubuntu), JetBrains
 * A can-do attitude
 
