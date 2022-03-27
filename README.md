@@ -26,6 +26,7 @@ _IT solutions for the pharmaceutical industry._
 * Maintenance and development of a monolithic PHP application
 * Built a video conferencing web app (WebRTC) in microservices architecture
 * Development of internal design system (React.js)
+* Migrated pharmacy orders tracking app from PHP monolith to SPA (React.js) + GraphQL API (API Platform)
 * Migrated part of core monolithic app to SPA in micro frontends architecture (Module Federation)
 * **_Technologies used:_** TypeScript, React.js, Node.js, Material-UI, Storybook, PHP, Symfony, Docker, Docker Compose,
   Cloud Firestore, Cloud Functions, Google App Engine, WebRTC, WebSocket, AMQP (RabbitMQ), Google Cloud Pub/Sub,
