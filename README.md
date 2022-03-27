@@ -46,7 +46,7 @@ _IT solutions for the pharmaceutical industry._
 * TypeScript
 * GCP, Azure
 * MySQL, MongoDB, Redis, Memcached, Cloud Firestore
-* PHP, Symfony
+* PHP 7+, Symfony
 * OAuth 2.0, OpenID Connect
 * PHPUnit, Jest, React Testing Library, Cypress
 * Linux (Ubuntu), JetBrains
