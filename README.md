@@ -42,7 +42,8 @@ _IT solutions for the pharmaceutical industry._
 * TDD
 * React.js, React Redux, Redux Saga
 * Node.js, Next.js, Express.js, Fastify
-* Docker, Kubernetes
+* Docker, Kubernetes, Helm
+* Go
 * GitHub Actions, Azure Pipelines
 * TypeScript
 * GCP, Azure
