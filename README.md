@@ -38,19 +38,18 @@ _IT solutions for the pharmaceutical industry._
 
 ## Skills
 
-* JavaScript ES6+
+* JavaScript ES6+, TypeScript
 * TDD
 * React.js, React Redux, Redux Saga
 * Node.js, Next.js, Express.js, Fastify
 * Docker, Kubernetes, Helm
 * Go
 * GitHub Actions, Azure Pipelines
-* TypeScript
 * GCP, Azure
 * MySQL, MongoDB, Redis, Memcached, Cloud Firestore
 * PHP 7+, Symfony
 * OAuth 2.0, OpenID Connect
-* PHPUnit, Jest, React Testing Library, Cypress
+* PHPUnit, Jest, React Testing Library, Cypress, Tap
 * Linux (Ubuntu), JetBrains
 * A can-do attitude
 
